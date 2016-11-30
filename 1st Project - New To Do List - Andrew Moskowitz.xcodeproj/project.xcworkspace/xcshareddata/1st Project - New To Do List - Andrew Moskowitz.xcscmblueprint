@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4C2D0030002EA1AA8A7A6AAD674893D871211852",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4C2D0030002EA1AA8A7A6AAD674893D871211852" : 9223372036854775807,
+    "F1F162394E83C6DF41B043BBA3E49C939B276921" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5F8793F2-05CA-4465-A91A-6B47FDC09C9B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4C2D0030002EA1AA8A7A6AAD674893D871211852" : "Homework\/",
+    "F1F162394E83C6DF41B043BBA3E49C939B276921" : "Projects\/Project%201\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "1st Project - New To Do List - Andrew Moskowitz",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "unit_1\/w4d2\/homework\/SUBMISSIONS\/Andrew Moskowitz\/1st Project - New To Do List - Andrew Moskowitz\/1st Project - New To Do List - Andrew Moskowitz.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/moskowizzle\/IOSI-NYC-1",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C2D0030002EA1AA8A7A6AAD674893D871211852"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:moskowizzle\/Project-1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F1F162394E83C6DF41B043BBA3E49C939B276921"
+    }
+  ]
+}
