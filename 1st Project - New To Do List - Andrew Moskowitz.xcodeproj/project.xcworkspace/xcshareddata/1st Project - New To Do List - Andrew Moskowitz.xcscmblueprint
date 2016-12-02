@@ -1,25 +1,25 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4C2D0030002EA1AA8A7A6AAD674893D871211852",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E34394F6C7C8F2DF25A72574131A88F6A5FEE2A2",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "4C2D0030002EA1AA8A7A6AAD674893D871211852" : 9223372036854775807,
-    "F1F162394E83C6DF41B043BBA3E49C939B276921" : 9223372036854775807
+    "F1F162394E83C6DF41B043BBA3E49C939B276921" : 9223372036854775807,
+    "E34394F6C7C8F2DF25A72574131A88F6A5FEE2A2" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5F8793F2-05CA-4465-A91A-6B47FDC09C9B",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "4C2D0030002EA1AA8A7A6AAD674893D871211852" : "Homework\/",
-    "F1F162394E83C6DF41B043BBA3E49C939B276921" : "Projects\/Project%201\/"
+    "F1F162394E83C6DF41B043BBA3E49C939B276921" : "Project%201\/",
+    "E34394F6C7C8F2DF25A72574131A88F6A5FEE2A2" : "1st%20Project%20-%20New%20To%20Do%20List%20-%20Andrew%20Moskowitz\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "1st Project - New To Do List - Andrew Moskowitz",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "unit_1\/w4d2\/homework\/SUBMISSIONS\/Andrew Moskowitz\/1st Project - New To Do List - Andrew Moskowitz\/1st Project - New To Do List - Andrew Moskowitz.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "1st Project - New To Do List - Andrew Moskowitz.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/moskowizzle\/IOSI-NYC-1",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/moskowizzle\/Project-1-Correct.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C2D0030002EA1AA8A7A6AAD674893D871211852"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E34394F6C7C8F2DF25A72574131A88F6A5FEE2A2"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:moskowizzle\/Project-1.git",
