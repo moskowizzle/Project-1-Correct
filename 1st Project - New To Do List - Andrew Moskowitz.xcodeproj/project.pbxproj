@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BA0F61451DF21611008A0A62 /* how-to-texture-walls.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA0F61441DF21611008A0A62 /* how-to-texture-walls.jpg */; };
+		BA0F61471DF21D55008A0A62 /* B18161_MoskMobile_KD_1.png in Resources */ = {isa = PBXBuildFile; fileRef = BA0F61461DF21D55008A0A62 /* B18161_MoskMobile_KD_1.png */; };
 		BA16F3341DDFB1A700B00054 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA16F3321DDFB1A700B00054 /* Main.storyboard */; };
 		BAD36EC01DDBD8AB00FBBCB7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAD36EBF1DDBD8AB00FBBCB7 /* AppDelegate.swift */; };
 		BAD36EC71DDBD8AB00FBBCB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAD36EC61DDBD8AB00FBBCB7 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		BA0F61441DF21611008A0A62 /* how-to-texture-walls.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "how-to-texture-walls.jpg"; path = "../../Project 1/Images/how-to-texture-walls.jpg"; sourceTree = "<group>"; };
+		BA0F61461DF21D55008A0A62 /* B18161_MoskMobile_KD_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = B18161_MoskMobile_KD_1.png; path = ../../../../../Downloads/B18161_MoskMobile_KD_1/B18161_MoskMobile_KD_1.png; sourceTree = "<group>"; };
 		BA16F3331DDFB1A700B00054 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BAD36EBC1DDBD8AB00FBBCB7 /* 1st Project - New To Do List - Andrew Moskowitz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "1st Project - New To Do List - Andrew Moskowitz.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAD36EBF1DDBD8AB00FBBCB7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				BAD36EC61DDBD8AB00FBBCB7 /* Assets.xcassets */,
+				BA0F61461DF21D55008A0A62 /* B18161_MoskMobile_KD_1.png */,
 				BA0F61441DF21611008A0A62 /* how-to-texture-walls.jpg */,
 			);
 			name = Images;
@@ -175,6 +178,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA16F3341DDFB1A700B00054 /* Main.storyboard in Resources */,
+				BA0F61471DF21D55008A0A62 /* B18161_MoskMobile_KD_1.png in Resources */,
 				BAD36ECA1DDBD8AB00FBBCB7 /* LaunchScreen.storyboard in Resources */,
 				BA0F61451DF21611008A0A62 /* how-to-texture-walls.jpg in Resources */,
 				BAD36EC71DDBD8AB00FBBCB7 /* Assets.xcassets in Resources */,
